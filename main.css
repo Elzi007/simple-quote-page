@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-image: url(assets/freedom.jpg);
+  background-size: cover;
+  font-family: 'Julius Sans One', sans-serif;
+}
+h1 {
+  font-size: 2.25em;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 400;
+  line-height: 1.5em;
+  padding: 2.5em 3em 1.7em;
+}
+h2 {
+  font-size: 1.3em;
+  text-align: center;
+  margin: 0;
+  font-weight: 400;
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+}
